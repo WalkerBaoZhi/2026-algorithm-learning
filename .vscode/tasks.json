@@ -9,7 +9,7 @@
 				"-g",
 				"${file}",
 				"-o",
-				"${fileDirname}/${fileBasenameNoExtension}"
+				"D:\\Code\\C++\\baisc-algorithm\\exe\\test.exe"
 			],
 			"options": {
 				"cwd": "${workspaceFolder}"
